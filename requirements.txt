@@ -52,7 +52,7 @@ python-dotenv==1.2.3
     # via load-dotenv
 requests==2.34.2
     # via ytmusicapi
-starlette==1.6.0
+starlette==1.7.0
     # via fastapi
 typing-extensions==4.16.0
     # via
@@ -68,7 +68,7 @@ typing-inspection==0.4.4
     #   pydantic
 urllib3==2.8.0
     # via requests
-uvicorn==0.53.0
+uvicorn==0.54.0
     # via downtify
 websockets==17.1
     # via downtify
